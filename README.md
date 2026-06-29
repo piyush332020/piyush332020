@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **piyushsingh7984@gmail.com** For Collaboration/Project or 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-kumar-singh-768341299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsingh7984@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=piyush332020&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=piyush332020&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=piyush332020&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush332020&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

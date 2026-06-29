@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=HI+👋+I'm+Piyush+Singh;C%2B%2B+Developer;Machine+Learning+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg) 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Piyush%20Singh&fontSize=45"/>
 
 **A passionate software engineer || ML Engineer || from India**
 

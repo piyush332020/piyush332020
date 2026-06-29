@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=HI+👋+I'm+Piyush+Singh;C%2B%2B+Developer;Machine+Learning+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=piyush332020&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=HI+👋+I'm+Piyush+Singh;C%2B%2B+Developer;Machine+Learning+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg) 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNyNGltNDlhemo0dzk5M2VnZm1nYjF0c284M2JuOW45M2V2djNqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" width="600">
+</p>
 
 **A passionate software engineer || ML Engineer || from India**
 

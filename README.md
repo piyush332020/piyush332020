@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **piyushsingh7984@gmail.com** For Collaboration/Project or 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=piyush332020&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=piyush332020&theme=shadow_green&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=piyush332020&theme=shadow_green&hide_border=false)
 
 
 

@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=Hi+I'm+Piyush;C%2B%2B+Developer;Machine+Learning+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
+
 # 💫 Hi 👋, I'm Piyush Kumar Singh
 **A passionate software engineer || ML Engineer || from India**
 
